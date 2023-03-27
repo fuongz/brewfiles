@@ -8,3 +8,7 @@ This is a collection of my brewfiles. I use these to install my preferred softwa
 brew tap homebrew/bundle
 brew bundle --file=fuongz-m1/brewfile
 ```
+
+## License
+
+[MIT](LICENSE)
